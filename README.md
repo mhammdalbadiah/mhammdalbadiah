@@ -1,16 +1,28 @@
-## Hi there 👋
+# Mohammed Al-Badiah
 
-<!--
-**mhammdalbadiah/mhammdalbadiah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+IT student at Majmaah University.
 
-Here are some ideas to get you started:
+Focused on Cloud Engineering and DevOps.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently building a home cloud server using Raspberry Pi to learn:
+
+- Linux server administration
+- Networking fundamentals
+- Bash automation
+- Cloud architecture
+- Storage systems
+
+## Current Tech Stack
+
+Linux
+Go
+Python
+Bash
+Git
+AWS (learning)
+
+## Projects
+
+- snap → backup tool written in Go
+- home-cloud-server → personal cloud infrastructure
+- cloud-labs → Linux, networking and cloud experiments
