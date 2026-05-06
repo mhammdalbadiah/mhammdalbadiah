@@ -1,80 +1,78 @@
 # Mohammed Al-Badiah
 
-IT Student at Majmaah University  
-Cloud & DevOps Enthusiast  
+IT Student · Majmaah University  
+Cloud & DevOps Enthusiast
 
-Currently building a **Home Cloud Server** using Raspberry Pi to understand real cloud infrastructure from the ground up.
+Already running a **Home Cloud Server** (NAS & AI) on Raspberry Pi — built from scratch to understand real cloud infrastructure.
 
 ---
 
-## Connect With Me
+## Connect
 
-[LinkedIn](https://www.linkedin.com/in/mohammd-al-badiah-7b4294321)  
-[GitHub](https://github.com/mhammdalbadiah)
+[![Website](https://img.shields.io/badge/Website-000000?logo=github&logoColor=white)](https://mhammdalbadiah.github.io/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammed-al-badiah-7b4294321)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/mhammdalbadiah)
 
 ---
 
 ## Tech Stack
 
-![Linux](https://img.shields.io/badge/Linux-black?logo=linux)
-![Go](https://img.shields.io/badge/Go-blue?logo=go)
-![Python](https://img.shields.io/badge/Python-yellow?logo=python)
-![C++](https://img.shields.io/badge/C++-blue?logo=cplusplus)
-![SQL](https://img.shields.io/badge/SQL-orange?logo=mysql)
-![HTML](https://img.shields.io/badge/HTML5-red?logo=html5)
-![CSS](https://img.shields.io/badge/CSS3-blue?logo=css3)
-![Git](https://img.shields.io/badge/Git-black?logo=git)
-![Bash](https://img.shields.io/badge/Bash-black?logo=gnubash)
+![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
+![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?logo=archlinux&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?logo=mysql&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=white)
 
 ---
 
 ## Current Focus
 
-- Linux System Administration  
-- Bash Automation  
-- Networking Fundamentals  
-- Cloud Infrastructure  
-- Python for Automation  
-- AWS Cloud
+- Linux System Administration
+- Bash & Python Automation
+- Networking Fundamentals
+- Cloud Infrastructure (AWS)
+- Home Lab & Raspberry Pi
 
 ---
 
 ## Projects
 
-### snap
-Backup tool written in Go.
+### [`snap`](https://github.com/mhammdalbadiah/snap)
+A backup tool written in Go with file deduplication and snapshot support.
 
-Features:
-- file deduplication
-- snapshot backups
-- clean architecture
-
----
-
-### media-club-mu
+### [`media-club-mu`](https://github.com/mhammdalbadiah/media-club-mu)
 Frontend website built for the Media Club at Majmaah University.
 
+### [`cloud-labs`](https://github.com/mhammdalbadiah/cloud-labs)
+Personal lab notes and experiments covering Linux , networking , Bash scripting , Raspberry Pi , and cloud systems.
+
 ---
 
-### cloud-labs
-Experiments and labs related to:
+## Home Cloud
 
-- Linux
-- Networking
-- Bash scripting
-- Raspberry Pi
-- Cloud systems
+Running a self-hosted cloud on Raspberry Pi :
+
+- **NAS** — personal file storage and remote access via Tailscale
+- **AI** — local AI models running on-device with Ollama
 
 ---
 
 ## GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=mhammdalbadiah&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mhammdalbadiah&show_icons=true&theme=tokyonight)
 
 ---
 
-## Future Goals
+## Goals
 
-- Build a full **Home Cloud Infrastructure**
-- Earn multiple **AWS Certifications**
-- Work as a **Cloud / DevOps Engineer**
+- [ ] AWS Certifications & Cloud / DevOps Engineer
+
+---
+
+> btw , I use Arch.
