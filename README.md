@@ -71,7 +71,8 @@ Running a self-hosted cloud on Raspberry Pi :
 
 ## Goals
 
-- [ ] AWS Certifications & Cloud / DevOps Engineer
+- [ ] AWS Certifications & Cloud
+- [ ]  DevOps Engineer
 
 ---
 
