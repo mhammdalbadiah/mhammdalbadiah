@@ -65,7 +65,7 @@ Running a self-hosted cloud on Raspberry Pi :
 
 ## GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mhammdalbadiah&show_icons=true&theme=tokyonight&hide_border=true)
+![GitHub Stats](https://streak-stats.demolab.com?user=mhammdalbadiah&theme=tokyonight&hide_border=true)
 
 ---
 
