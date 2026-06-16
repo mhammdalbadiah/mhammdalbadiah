@@ -28,9 +28,8 @@ Already running a **Home Cloud Server** (NAS & AI) on Raspberry Pi — built fro
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
- ---
+![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white)
+---
 
 ## Current Focus
 
