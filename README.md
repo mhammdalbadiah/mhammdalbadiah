@@ -1,9 +1,9 @@
 # Mohammed Al-Badiah
 
-IT Student · Majmaah University  
+IT Student · Majmaah University · Cybersecurity Major  
 Cloud & DevOps Enthusiast
 
-Already running a **Home Cloud Server** (NAS & AI) on Raspberry Pi — built from scratch to understand real cloud infrastructure.
+Running a **homelab** on a Xeon E5-2690 server (Proxmox) and Raspberry Pi — built from scratch to understand real cloud infrastructure.
 
 ---
 
@@ -17,49 +17,68 @@ Already running a **Home Cloud Server** (NAS & AI) on Raspberry Pi — built fro
 
 ## Tech Stack
 
-![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
-![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?logo=archlinux&logoColor=white)
+**Languages**
+
+![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?logo=mysql&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
+
+**Infrastructure & Tools**
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
+![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?logo=archlinux&logoColor=white)
+![Proxmox](https://img.shields.io/badge/Proxmox-E57000?logo=proxmox&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonwebservices&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white)
+![Tailscale](https://img.shields.io/badge/Tailscale-242424?logo=tailscale&logoColor=white)
+
+---
+
+## Certifications
+
+- AWS Cloud Technical Essentials — Coursera
+- IBM Database Administration — Coursera
+- C++ Object-Oriented Programming — UIUC (Coursera)
+- SQL for Data Science — University of Michigan (Coursera)
+
 ---
 
 ## Current Focus
 
-- Linux System Administration
-- Bash & Python Automation
-- Networking Fundamentals
-- Cloud Infrastructure (AWS)
-- Home Lab & Raspberry Pi
+- Preparing for **AWS Solutions Architect Associate (SAA-C03)**
+- Building out a Proxmox homelab (Kubernetes, Jenkins, Wazuh, pfSense)
+- Linux system administration and automation
+- Cloud infrastructure and DevOps tooling
 
 ---
 
 ## Projects
 
 ### [`snap`](https://github.com/mhammdalbadiah/snap)
-A backup tool written in Go with file deduplication and snapshot support.
+Backup tool written in Go with file deduplication and snapshot support.
 
 ### [`media-club-mu`](https://github.com/mhammdalbadiah/media-club-mu)
-Frontend website built for the Media Club at Majmaah University.
+Frontend website for the Media Club at Majmaah University.
 
 ### [`cloud-labs`](https://github.com/mhammdalbadiah/cloud-labs)
-Personal lab notes and experiments covering Linux , networking , Bash scripting , Raspberry Pi , and cloud systems.
+Lab notes and experiments covering Linux, networking, Bash scripting, Raspberry Pi, and cloud systems.
+
+### [`Portfolio`](https://mhammdalbadiah.github.io/)
+Terminal-themed personal site built with a CLI aesthetic, Catppuccin Mocha palette, and JetBrains Mono.
 
 ---
 
-## Home Cloud
+## Homelab
 
-Running a self-hosted cloud on Raspberry Pi :
+**Xeon E5-2690 Server** — Proxmox hypervisor, running VMs for Kubernetes, CI/CD, SIEM, networking, and storage.
 
-- **NAS** — personal file storage and remote access via Tailscale
-- **AI** — local AI models running on-device with Ollama
+**Raspberry Pi** — NAS (Samba), Pi-hole, Minecraft server, Tailscale gateway, and a custom Arabic Matrix rain OLED display.
 
 ---
 
@@ -69,11 +88,14 @@ Running a self-hosted cloud on Raspberry Pi :
 
 ---
 
-## Goals
+## Roadmap
 
-- [ ] AWS Certifications & Cloud
-- [ ]  DevOps Engineer
+- [ ] AWS SAA-C03
+- [ ] CKA (Certified Kubernetes Administrator)
+- [ ] Terraform Associate
+- [ ] AWS DOP-C02
+- [ ] AWS SOA-C02
 
 ---
 
-> btw , I use Arch.
+> btw, I use Arch.
