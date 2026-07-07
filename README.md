@@ -78,7 +78,7 @@ Terminal-themed personal site built with a CLI aesthetic, Catppuccin Mocha palet
 
 **Xeon E5-2690 Server** — Proxmox hypervisor, running VMs for Kubernetes, CI/CD, SIEM, networking, and storage.
 
-**Raspberry Pi** — NAS (Samba), Pi-hole, Minecraft server, Tailscale gateway, and a custom Arabic Matrix rain OLED display.
+**Raspberry Pi** — NAS (Samba), Pi-hole, Minecraft server, Tailscale gateway 
 
 ---
 
