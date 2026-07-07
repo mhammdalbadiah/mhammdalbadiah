@@ -1,6 +1,6 @@
 # Mohammed Al-Badiah
 
-IT Student · Majmaah University · Cybersecurity Major  
+IT Student · Majmaah University · Cloud Computing Major  
 Cloud & DevOps Enthusiast
 
 Running a **homelab** on a Xeon E5-2690 server (Proxmox) and Raspberry Pi — built from scratch to understand real cloud infrastructure.
