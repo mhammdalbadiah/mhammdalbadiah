@@ -65,12 +65,17 @@ I'm a passionate **Cloud/DevOps Engineer in the making** with a background in **
 ## Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mhammdalbadiah&show_icons=true&theme=catppuccin_mocha&hide_border=true&bg_color=1e1e2e&text_color=cdd6f4&icon_color=89b4fa&title_color=cba6f7" width="49%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=mhammdalbadiah&theme=catppuccin-mocha&hide_border=true&background=1E1E2E&ring=CBA6F7&fire=F38BA8&currStreakLabel=CDD6F4" width="49%" />
+  <img src="./profile-summary-card-output/catppuccin_mocha/0-profile-details.svg" width="100%" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhammdalbadiah&layout=compact&theme=catppuccin_mocha&hide_border=true&bg_color=1e1e2e&text_color=cdd6f4&title_color=cba6f7" width="40%" />
+  <img src="./profile-summary-card-output/catppuccin_mocha/3-stats.svg" width="49%" />
+  <img src="./profile-summary-card-output/catppuccin_mocha/4-productive-time.svg" width="49%" />
+</div>
+
+<div align="center">
+  <img src="./profile-summary-card-output/catppuccin_mocha/1-repos-per-language.svg" width="49%" />
+  <img src="./profile-summary-card-output/catppuccin_mocha/2-most-commit-language.svg" width="49%" />
 </div>
 
 ## 3D Contributions
