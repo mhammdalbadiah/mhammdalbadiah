@@ -1,71 +1,162 @@
-<p align="center">
-  <a href="https://github.com/mhammdalbadiah">
-    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=4f46e5&fontSize=54&height=90&width=698&text=Hi%20!%20I'm%20Mohammed" alt="Hi! I&#39;m Mohammed" />
-  </a>
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=56d4dd&center=true&vCenter=true&width=360&height=44&lines=Cloud%20DevOps" alt="Typing headlines" />
-</p>
+```
+mohammed@arch
+─────────────────────────────────────────────────
 
-### 🚀 About Me
+                   -`                    OS ............... Arch Linux / macOS
+                  .o+`                   Uptime ........... 20 years
+                 `ooo/                   Host ............. Majmaah University
+                `+oooo:                  Kernel ........... Cybersecurity
+               `+oooooo:                 WM ............... Hyprland
+               -+oooooo+:               Shell ............ fish
+             `/:-:++oooo+:              Terminal ......... Kitty
+            `/++++/+++++++:             Editor ........... VSCode / Neovim
+           `/++++++++++++++:
+          `/+++ooooooooooooo/`          ─ Languages ──────────────────────────
+         ./ooosssso++osssssso+`         Programming ...... C++, Python, Go, Bash
+        .oossssso-````/ossssss+`        Web .............. HTML, CSS, JavaScript
+       -osssssso.      :ssssssso.       Data ............. SQL, JSON, YAML
+      :osssssss/        osssso+++.      Real ............. Arabic, English
+     /ossssssss/        +ssssooo/-
+   `/ossssso+/:-        -:/+osssso+-    ─ Interests ─────────────────────────
+  `+sso+:-`                 `.-/+oso:   Cloud ............ AWS, Terraform, IaC
+ `++:.                           `-/+/  Homelab .......... Proxmox, K8s, Pi
+ .`                                 `/  Fitness .......... Powerlifting
+```
 
-Cloud Computing student at MU , passionate about Cloud/DevOps. Building homelabs, chasing AWS certs, and living in the terminal. Arch Linux btw.
+</div>
 
-🔭 &nbsp;I'm currently working on **a Proxmox homelab cluster and my terminal-aesthetic portfolio**  
-🌱 &nbsp;I'm currently learning **AWS (SAA-C03) and CKA**  
-👯 &nbsp;I'm looking to collaborate on **Cloud/DevOps and infrastructure automation projects**  
-💬 &nbsp;Ask me about **C++,Go,Bash,Python, Arch Linux, homelabs, and cloud infrastructure**  
-⚡ &nbsp;Fun fact: **My portfolio site has a working CLI console you can actually type commands into**
+<!-- ABOUT -->
 
-### 🛠️ Tech Stack
+<div align="center">
 
-<p align="left">
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
-  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="AWS" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
-  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform" />
-  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=vscodium&logoColor=white" alt="VS Code" />
-  <img src="https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white" alt="Neovim" />
-  <img src="https://img.shields.io/badge/Vim-019733?style=for-the-badge&logo=vim&logoColor=white" alt="Vim" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
-</p>
+## `> whoami`
 
-### 🔗 Connect With Me
+**Mohammed Al-Badiah** — IT & Cybersecurity student by degree, Cloud/DevOps engineer by passion.
 
-<p align="left">
-  <a href="https://www.linkedin.com/authwall?trkInfo=AQHFzXC1HAtHzQAAAZ9FoKIYTvEZ8ejibG41706ZU-FonaAN03Gl3xJW1orh9xTndlPagbnVEGxGfY9nrD4vh5xd44hdJXmP8ZZzOWGjNkcdw12jUZHxdyVe8_VtTgGJVIWF7ik%3D&amp;original_referer&amp;sessionRedirect=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fmohammed-al-badiah-7b4294321" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://youtube.com/@itsts_11?si=0Gn8KKflWx57EZzf" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a>
-  <a href="mailto:m.a.albadiah@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-</p>
+Building infrastructure that scales. Breaking things in homelabs. Lifting heavy in the gym.
 
-### 📊 GitHub Stats
+`📍 Riyadh, Saudi Arabia`
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=mhammdalbadiah&show_icons=true&theme=tokyonight&title_color=4f46e5&icon_color=4f46e5&hide_border=true&bg_color=00000000&count_private=true" alt="stats" />
-  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=mhammdalbadiah&layout=compact&theme=tokyonight&title_color=4f46e5&icon_color=4f46e5&hide_border=true&bg_color=00000000&langs_count=8" alt="top langs" />
-</p>
-
-### 📈 Contribution Graph
-
-<p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=mhammdalbadiah&bg_color=00000000&color=4f46e5&line=4f46e5&point=c9d1d9&area=true&hide_border=true" alt="activity graph" />
-</p>
-
-### 💭 Dev Quote
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev quote" />
-</p>
+</div>
 
 ---
-<p align="center"><i>⭐️ From <a href="https://github.com/mhammdalbadiah">mhammdalbadiah</a></i></p>
+
+<!-- TECH STACK -->
+
+<div align="center">
+
+### `> pacman -Q | grep skills`
+
+<img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white"/>
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white"/>
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"/>
+<img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white"/>
+<img src="https://img.shields.io/badge/HTML/CSS-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
+<img src="https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=white"/>
+<img src="https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/Tailscale-0A1A2F?style=for-the-badge&logo=tailscale&logoColor=white"/>
+
+</div>
+
+---
+
+<!-- CERTIFICATIONS -->
+
+<div align="center">
+
+### `> cat /etc/certifications`
+
+| Certificate | Issuer |
+|:--|:--|
+| AWS Cloud Technical Essentials | Coursera (AWS) |
+| IBM Relational Database Administration | Coursera (IBM) |
+| C++ Object-Oriented Data Structures | Coursera (UIUC) |
+| SQL for Data Science | Coursera (UMich) |
+
+**Roadmap →** `AWS SAA-C03` ➜ `CKA` ➜ `Terraform Associate` ➜ `DOP-C02` ➜ `SOA-C02`
+
+</div>
+
+---
+
+<!-- PROJECTS -->
+
+<div align="center">
+
+### `> ls ~/projects`
+
+</div>
+
+| Project | Description | Stack |
+|:--------|:-----------|:------|
+| [**Portfolio**](https://mhammdalbadiah.github.io) | Terminal-aesthetic personal site with interactive CLI | HTML / CSS / JS |
+| **Homelab** | Proxmox cluster + Kubernetes + NAS on Raspberry Pi | Proxmox / Tailscale / Pi 5 |
+| **imgs2pdf** | CLI tool to merge images into a single PDF | Python / Pillow |
+| **Airline System** | Linked Lists, Stacks & Queues management system | C++ / Makefile |
+| **Arabic Jeopardy** | Two-team quiz game with Gulf cultural content | Claude API / JS |
+
+---
+
+<!-- GITHUB STATS -->
+
+<div align="center">
+
+### `> neofetch --stats`
+
+<img src="https://github-readme-stats.vercel.app/api?username=mhammdalbadiah&show_icons=true&theme=catppuccin_mocha&hide_border=true&bg_color=1e1e2e&text_color=cdd6f4&icon_color=89b4fa&title_color=cba6f7" width="49%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=mhammdalbadiah&theme=catppuccin-mocha&hide_border=true&background=1E1E2E&ring=CBA6F7&fire=F38BA8&currStreakLabel=CDD6F4" width="49%"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhammdalbadiah&layout=compact&theme=catppuccin_mocha&hide_border=true&bg_color=1e1e2e&text_color=cdd6f4&title_color=cba6f7" width="40%"/>
+
+</div>
+
+---
+
+<!-- 3D CONTRIBUTION GRAPH -->
+
+<div align="center">
+
+### `> contrib --3d`
+
+<img src="./profile-3d-contrib/profile-night-green.svg" width="100%"/>
+
+</div>
+
+---
+
+<!-- CONTACT -->
+
+<div align="center">
+
+### `> cat ~/.contacts`
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mhammdalbadiah)
+[![Portfolio](https://img.shields.io/badge/Portfolio-1e1e2e?style=for-the-badge&logo=firefoxbrowser&logoColor=cba6f7)](https://mhammdalbadiah.github.io)
+
+</div>
+
+---
+
+<div align="center">
+
+```
+ ╔══════════════════════════════════════════════════════════╗
+ ║                                                          ║
+ ║   "Infrastructure is code. Code is infrastructure.       ║
+ ║    The terminal is home."                                ║
+ ║                                                          ║
+ ╚══════════════════════════════════════════════════════════╝
+```
+
+<img src="https://komarev.com/ghpvc/?username=mhammdalbadiah&style=flat-square&color=cba6f7&label=Profile+Views"/>
+
+</div>
