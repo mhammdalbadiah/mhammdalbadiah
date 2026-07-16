@@ -81,24 +81,6 @@
 
 ###
 
-### Stats
-
-<div align="center">
-  <img src="./profile-summary-card-output/dracula/0-profile-details.svg" width="100%" />
-</div>
-
-<div align="center">
-  <img src="./profile-summary-card-output/dracula/3-stats.svg" width="49%" />
-  <img src="./profile-summary-card-output/dracula/4-productive-time.svg" width="49%" />
-</div>
-
-<div align="center">
-  <img src="./profile-summary-card-output/dracula/1-repos-per-language.svg" width="49%" />
-  <img src="./profile-summary-card-output/dracula/2-most-commit-language.svg" width="49%" />
-</div>
-
-###
-
 ### 3D Contributions
 
 <div align="center">
