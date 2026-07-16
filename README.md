@@ -4,7 +4,7 @@
 
 ###
 
-<p>Cybersecurity student by degree, Cloud/DevOps engineer by passion. I build infrastructure that scales, break things in homelabs, and lift heavy in the gym.</p>
+<p>Cloud/DevOps . I build and automate infrastructure, run production-like environments at home, and work toward mastering the cloud-native ecosystem. If it can be containerized, orchestrated, or automated — I'm on it.</p>
 
 ###
 
@@ -46,9 +46,6 @@
   <a href="https://www.linkedin.com/in/mohammed-al-badiah-7b4294321">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
   </a>
-  <a href="https://github.com/mhammdalbadiah">
-    <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=181717&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="github logo" />
-  </a>
   <a href="https://mhammdalbadiah.github.io">
     <img src="https://img.shields.io/static/v1?message=Portfolio&logo=firefoxbrowser&label=&color=1e1e2e&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="portfolio logo" />
   </a>
@@ -69,15 +66,37 @@
 
 ###
 
+### Homelab
+
+I run two physical servers and a Raspberry Pi at home as a full infrastructure lab.
+
+**Server 1 — Xeon Workhorse**
+| Spec | Details |
+|:--|:--|
+| CPU | Intel Xeon E5-2690 |
+| Platform | Proxmox VE |
+| RAM | 32Gib |
+| Role | Kubernetes clusters, nested virtualization, container workloads |
+
+
+**Raspberry Pi 5 (4 GB)**
+| Service | Details |
+|:--|:--|
+| NAS | Samba file server |
+| Minecraft | PaperMC 1.21.11 |
+| Networking | Tailscale mesh VPN |
+| Monitoring | Custom Python dashboard + OLED display |
+
+###
+
 ### Projects
 
 | Project | Description | Stack |
 |:--------|:-----------|:------|
 | [**Portfolio**](https://mhammdalbadiah.github.io) | Terminal-aesthetic personal site with interactive CLI | HTML / CSS / JS |
-| **Homelab** | Proxmox cluster + Kubernetes + NAS on Raspberry Pi | Proxmox / Tailscale / Pi 5 |
+| **Homelab** | Two-server Proxmox cluster running K8s, VMs, and NAS | Proxmox / Tailscale / Pi 5 |
 | **imgs2pdf** | CLI tool to merge images into a single PDF | Python / Pillow |
 | **Airline System** | Linked Lists, Stacks and Queues management system | C++ / Makefile |
-| **Arabic Jeopardy** | Two-team quiz game with Gulf cultural content | Claude API / JS |
 
 ###
 
