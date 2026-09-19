@@ -51,6 +51,7 @@
 
 | Certificate | Issuer |
 |:--|:--|
+| AWS Solution Architect Associate SAA-C03 | AWS |
 | AWS Cloud Technical Essentials | Coursera (AWS) |
 | IBM Relational Database Administration | Coursera (IBM) |
 | C++ Object-Oriented Data Structures | Coursera (UIUC) |
